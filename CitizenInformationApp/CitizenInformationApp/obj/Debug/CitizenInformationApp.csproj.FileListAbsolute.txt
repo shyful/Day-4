@@ -1,0 +1,9 @@
+E:\Day4\CitizenInformationApp\CitizenInformationApp\bin\Debug\CitizenInformationApp.exe.config
+E:\Day4\CitizenInformationApp\CitizenInformationApp\bin\Debug\CitizenInformationApp.exe
+E:\Day4\CitizenInformationApp\CitizenInformationApp\bin\Debug\CitizenInformationApp.pdb
+E:\Day4\CitizenInformationApp\CitizenInformationApp\obj\Debug\CitizenInformationApp.Form1.resources
+E:\Day4\CitizenInformationApp\CitizenInformationApp\obj\Debug\CitizenInformationApp.Properties.Resources.resources
+E:\Day4\CitizenInformationApp\CitizenInformationApp\obj\Debug\CitizenInformationApp.csproj.GenerateResource.Cache
+E:\Day4\CitizenInformationApp\CitizenInformationApp\obj\Debug\CitizenInformationApp.exe
+E:\Day4\CitizenInformationApp\CitizenInformationApp\obj\Debug\CitizenInformationApp.pdb
+E:\Day4\CitizenInformationApp\CitizenInformationApp\obj\Debug\CitizenInformationApp.csprojResolveAssemblyReference.cache

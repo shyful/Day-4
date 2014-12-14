@@ -1,0 +1,5 @@
+E:\Day4\QueueUsingforeachApp\QueueUsingforeachApp\bin\Debug\QueueUsingforeachApp.exe.config
+E:\Day4\QueueUsingforeachApp\QueueUsingforeachApp\bin\Debug\QueueUsingforeachApp.exe
+E:\Day4\QueueUsingforeachApp\QueueUsingforeachApp\bin\Debug\QueueUsingforeachApp.pdb
+E:\Day4\QueueUsingforeachApp\QueueUsingforeachApp\obj\Debug\QueueUsingforeachApp.exe
+E:\Day4\QueueUsingforeachApp\QueueUsingforeachApp\obj\Debug\QueueUsingforeachApp.pdb

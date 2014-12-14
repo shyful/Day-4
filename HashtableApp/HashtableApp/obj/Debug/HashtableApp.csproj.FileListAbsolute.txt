@@ -1,0 +1,6 @@
+E:\Day4\HashtableApp\HashtableApp\bin\Debug\HashtableApp.exe.config
+E:\Day4\HashtableApp\HashtableApp\obj\Debug\HashtableApp.csprojResolveAssemblyReference.cache
+E:\Day4\HashtableApp\HashtableApp\bin\Debug\HashtableApp.exe
+E:\Day4\HashtableApp\HashtableApp\bin\Debug\HashtableApp.pdb
+E:\Day4\HashtableApp\HashtableApp\obj\Debug\HashtableApp.exe
+E:\Day4\HashtableApp\HashtableApp\obj\Debug\HashtableApp.pdb

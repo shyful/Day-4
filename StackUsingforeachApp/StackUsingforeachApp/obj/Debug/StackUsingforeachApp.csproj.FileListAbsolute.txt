@@ -1,0 +1,5 @@
+E:\Day4\StackUsingforeachApp\StackUsingforeachApp\bin\Debug\StackUsingforeachApp.exe.config
+E:\Day4\StackUsingforeachApp\StackUsingforeachApp\bin\Debug\StackUsingforeachApp.exe
+E:\Day4\StackUsingforeachApp\StackUsingforeachApp\bin\Debug\StackUsingforeachApp.pdb
+E:\Day4\StackUsingforeachApp\StackUsingforeachApp\obj\Debug\StackUsingforeachApp.exe
+E:\Day4\StackUsingforeachApp\StackUsingforeachApp\obj\Debug\StackUsingforeachApp.pdb

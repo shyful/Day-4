@@ -1,0 +1,9 @@
+E:\Day4\WritingInFileApp\WritingInFileApp\bin\Debug\WritingInFileApp.exe.config
+E:\Day4\WritingInFileApp\WritingInFileApp\bin\Debug\WritingInFileApp.exe
+E:\Day4\WritingInFileApp\WritingInFileApp\bin\Debug\WritingInFileApp.pdb
+E:\Day4\WritingInFileApp\WritingInFileApp\obj\Debug\WritingInFileApp.csprojResolveAssemblyReference.cache
+E:\Day4\WritingInFileApp\WritingInFileApp\obj\Debug\WritingInFileApp.Properties.Resources.resources
+E:\Day4\WritingInFileApp\WritingInFileApp\obj\Debug\WritingInFileApp.csproj.GenerateResource.Cache
+E:\Day4\WritingInFileApp\WritingInFileApp\obj\Debug\WritingInFileApp.exe
+E:\Day4\WritingInFileApp\WritingInFileApp\obj\Debug\WritingInFileApp.pdb
+E:\Day4\WritingInFileApp\WritingInFileApp\obj\Debug\WritingInFileApp.CustomerInfoUI.resources
